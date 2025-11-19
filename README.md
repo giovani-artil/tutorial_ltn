@@ -32,7 +32,7 @@ A partir desse notebook, realizamos uma **adaptação** (guiados pelo artigo) pa
 
 ---
 
-## 🧩 **3. O que são Logic Tensor Networks (LTN)?**
+## **3. O que são Logic Tensor Networks (LTN)?**
 
 LTN combina:
 
@@ -69,7 +69,7 @@ Esse modelo era válido para estudo, ótimo para demonstração, mas **sem rela�
 
 A partir da base original, realizamos:
 
-#### ✔️ 1. Preparação do Dataset
+#### 1. Preparação do Dataset
 
 Utilizando um dataset real organizado como:
 
@@ -86,16 +86,16 @@ Carregamento com:
 datasets.ImageFolder(..., transform=transforms.Compose([...]))
 ```
 
-#### ✔️ 2. Transformações
+#### 2. Transformações
 
 * `Resize`
 * `ToTensor`
 
-#### ✔️ 3. DataLoaders
+#### 3. DataLoaders
 
 Criados com batch size adequado.
 
-#### ✔️ 4. Modelo CNN
+#### 4. Modelo CNN
 
 Implementação de uma rede simples:
 
@@ -105,13 +105,13 @@ Implementação de uma rede simples:
 * Flatten + Dense
 * Saída sigmoidal para probabilidade da classe "dog"
 
-#### ✔️ 5. Definição do Predicado LTN
+#### 5. Definição do Predicado LTN
 
 ```python
 Dog = ltn.Predicate(cnn_model)
 ```
 
-#### ✔️ 6. Variáveis lógicas
+#### 6. Variáveis lógicas
 
 ```python
 # x_dog: Variável representando o conceito "imagens de cachorro"
@@ -120,7 +120,7 @@ x_dog = ltn.Variable("x_dog", imgs_dogs)
 x_cat = ltn.Variable("x_cat", imgs_cats)
 ```
 
-#### ✔️ 7. Base de Conhecimento
+#### 7. Base de Conhecimento
 
 Usamos axiomas universais para cada subconjunto:
 
@@ -149,7 +149,7 @@ A classificação binária usando LTN + CNN mostrou ser viável e coerente:
 
 ## ▶️ **6. Como executar**
 
-### 1️⃣ Instale dependências
+### 1️. Instale dependências
 
 * Serão necessários: 
 - torch
@@ -157,7 +157,7 @@ A classificação binária usando LTN + CNN mostrou ser viável e coerente:
 - ltn
 - matplotlib
 
-### 2️⃣ Organize o dataset
+### 2️. Organize o dataset
 
 Estruture como indicado anteriormente.
 
@@ -167,11 +167,11 @@ Para este projeto, **diminuímos a quantidade de imagens treino** para termos re
 
 * Você pode baixar o dataset modificado, **usado neste projeto**, aqui (~5045 imagens) aqui: https://drive.google.com/drive/folders/1eEiiv0X2xHn4bdeF0NqayNTCWcstEe63?usp=sharing
 
-### 3️⃣ Execute o notebook adaptado
+### 3️. Execute o notebook adaptado
 
 Basta rodar célula por célula.
 
-### 4️⃣ Opcional: treinar em GPU no Google Colab
+### 4️. Opcional: treinar em GPU no Google Colab
 
 * Fazer upload do notebook
 * Ativar GPU em:
