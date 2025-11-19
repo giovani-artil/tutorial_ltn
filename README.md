@@ -1,8 +1,8 @@
-# 🧠 **Classificação Binária de Cães e Gatos com Logic Tensor Networks (LTN) e PyTorch**
+# **Classificação Binária de Cães e Gatos com Logic Tensor Networks (LTN) e PyTorch**
 
 ---
 
-## 📌 **1. Introdução**
+## **1. Introdução**
 
 Este projeto apresenta um estudo sobre o uso de **Logic Tensor Networks (LTN)** aplicadas a uma tarefa de **classificação binária**, utilizando **PyTorch** como backend de aprendizado profundo.
 
@@ -14,7 +14,7 @@ A partir desse notebook, realizamos uma **adaptação** (guiados pelo artigo) pa
 
 ---
 
-## 🎯 **2. Objetivo**
+## **2. Objetivo**
 
 ### **Notebook original**
 
@@ -51,7 +51,7 @@ Com isso, o modelo não aprende só pelos dados, mas também pelas **relações 
 
 ---
 
-## 🛠️ **4. Metodologia**
+## **4. Metodologia**
 
 ### 4.1 Notebook original (dados sintéticos)
 
@@ -137,7 +137,7 @@ axiom_2 = Forall(x_cat, Not(Dog(x_cat)))
 
 ---
 
-## 📈 **5. Resultados**
+## **5. Resultados**
 
 A classificação binária usando LTN + CNN mostrou ser viável e coerente:
 
@@ -147,7 +147,7 @@ A classificação binária usando LTN + CNN mostrou ser viável e coerente:
 
 ---
 
-## ▶️ **6. Como executar**
+## **6. Como executar**
 
 ### 1️. Instale dependências
 
@@ -179,20 +179,7 @@ Basta rodar célula por célula.
 
 ---
 
-## **7. Discussão**
-
-A adaptação mostra como LTN pode:
-
-* Ser usada em conjunto com modelos neurais tradicionais.
-* Expressar supervisão lógica diretamente.
-* Generalizar bem mesmo em tarefas reais de visão computacional.
-
-Enquanto o notebook original era apenas educacional e "ilustrativo", com dados gerados aleatoriamente, a adaptação permite ver LTN em ação com dados complexos, imagens ruidosas e classificadores convolucionais.
-
-
----
-
-## **8. Conclusão**
+## **7. Conclusão**
 
 Este trabalho mostra de forma clara:
 
@@ -204,7 +191,7 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
 
 ---
 
-## **9. Integrantes**
+## **8. Integrantes**
 
 <div align="center">
 
