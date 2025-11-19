@@ -238,6 +238,13 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
       </a><br />
       <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
+   <td align="center" style="padding: 10px;">
+      <a href="https://github.com/ValtXD" target="_blank">
+        <img src="https://github.com/ValtXD.png" width="150px" style="border-radius: 50%;" alt="Francisco Felipe"/><br />
+        <span style="font-weight: bold; font-size: 16px; color: #333;">Francisco Felipe</span>
+      </a><br />
+      <span style="font-size: 14px; color: #777;">Developer</span>
+    </td>
   </tr>
 </table>
 </div>
@@ -246,6 +253,7 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
 * Jorge Samuel Silva Coelho (samcoelho@icomp.ufam.edu.br)
 * Renata Modesto Fernandes (renata.modesto@icomp.ufam.edu.br)
 * Sofia Pinho Icavino Moura (sofiaicavino@icomp.ufam.edu.br)
+* Francisco Felipe Barros dos Santos (francisco.santos@icomp.ufam.edu.br)
 
 ---
 
