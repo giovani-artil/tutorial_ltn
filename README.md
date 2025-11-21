@@ -225,7 +225,7 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
       </a><br />
       <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
-   <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/ValtXD" target="_blank">
         <img src="https://github.com/ValtXD.png" width="150px" style="border-radius: 50%;" alt="Francisco Felipe"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Francisco Felipe</span>
@@ -239,6 +239,13 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
       </a><br />
       <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/RegesMath" target="_blank">
+        <img src="https://github.com/RegesMath.png" width="150px" style="border-radius: 50%;" alt="Vitória Edward"/><br />
+        <span style="font-weight: bold; font-size: 16px; color: #333;">Matheus Reges</span>
+      </a><br />
+      <span style="font-size: 14px; color: #777;">Developer</span>
+    </td>
   </tr>
 </table>
 </div>
@@ -249,5 +256,6 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
 * Sofia Pinho Icavino Moura (sofiaicavino@icomp.ufam.edu.br)
 * Francisco Felipe Barros dos Santos (francisco.santos@icomp.ufam.edu.br)
 * Vitoria Luz Edwards (vitoria.edwards@icomp.ufam.edu.br)
+* Matheus Carvalho Reges (matheus.reges@icomp.ufam.edu.br)
 
 ---
