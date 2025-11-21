@@ -246,6 +246,13 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
       </a><br />
       <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/Tory18" target="_blank">
+        <img src="https://github.com/BeatrizChristine.png" width="150px" style="border-radius: 50%;" alt="Beatriz Christine"/><br />
+        <span style="font-weight: bold; font-size: 16px; color: #333;">Beatriz Christine</span>
+      </a><br />
+      <span style="font-size: 14px; color: #777;">Developer</span>
+    </td>
   </tr>
 </table>
 </div>
@@ -257,5 +264,6 @@ A experiência demonstra que LTN é uma alternativa interessante para supervisio
 * Francisco Felipe Barros dos Santos (francisco.santos@icomp.ufam.edu.br)
 * Vitoria Luz Edwards (vitoria.edwards@icomp.ufam.edu.br)
 * Matheus Carvalho Reges (matheus.reges@icomp.ufam.edu.br)
+* Beatriz Christine Azevedo Batista (beatriz.batista@icomp.ufam.edu.br)
 
 ---
